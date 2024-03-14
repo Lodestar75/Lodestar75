@@ -3,8 +3,6 @@
 
 Olá! Sou um desenvolvedor em formação, apaixonado por lógica e soluções criativas. Atualmente, estou focado em quatro projetos pessoais:
 
-Minhas linguagens:
-
 ## Projetos Principais
 
 ### Coleta e exibição de dados usando o Brawl Stars API
