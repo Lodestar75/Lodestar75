@@ -19,9 +19,7 @@ Além dos projetos principais, estou trabalhando em diferentes projetos intermed
 
 Sempre busco aprender e crescer. Estou aberto a colaborações e feedbacks, então sinta-se à vontade para encontrar em contato comigo!
 
-## Contato
-
-- **Email:** [lodestar75@gmail.com](mailto:lodestar75@gmail.com)
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Lode-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lode-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,5 +28,7 @@ Sempre busco aprender e crescer. Estou aberto a colaborações e feedbacks, ent�
   <img align="center" alt="Lode-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-# 
+## Contato
+
+- **Email:** [lodestar75@gmail.com](mailto:lodestar75@gmail.com)
 
