@@ -1,13 +1,13 @@
 # Bem-vindo ao meu perfil!
 ![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=Lodestar75&show_icons=true&theme=radical)
 
-Olá! Sou um desenvolvedor em formação, apaixonado por lógica e soluções criativas. Atualmente, estou focado em quatro projetos pessoais:
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lodestar75/Lodestar75/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lodestar75/Lodestar75/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lodestar75/Lodestar75/output/github-contribution-grid-snake.svg">
 </picture>
+
+Olá! Sou um desenvolvedor em formação, apaixonado por lógica e soluções criativas. Atualmente, estou focado em quatro projetos pessoais:
 
 ## Projetos Principais
 
