@@ -38,5 +38,5 @@ Sempre busco aprender e crescer. Estou aberto a colaborações e feedbacks, ent�
 
 ## Contato
 
-- **Email:** [lodestar75@gmail.com](mailto:lodestar75@gmail.com)
+- **Email:** [dev.victorcruz78@gmail.com](mailto:dev.victorcruz78@gmail.com)
 
